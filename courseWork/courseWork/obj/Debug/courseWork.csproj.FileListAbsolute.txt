@@ -1,0 +1,16 @@
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\bin\Debug\courseWork.exe.config
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.csprojResolveAssemblyReference.cache
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.Properties.Resources.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.csproj.GenerateResource.Cache
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\bin\Debug\courseWork.exe
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\bin\Debug\courseWork.pdb
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.exe
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.pdb
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.add.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.addIncomeType.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.add_expense.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.add_expense_type.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.income_stat.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.buy.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.sell.resources
+X:\Хогвартс\бд\Курсовая\courseWork\courseWork\obj\Debug\courseWork.main_form.resources
